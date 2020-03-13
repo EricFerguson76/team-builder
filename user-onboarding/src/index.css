@@ -5,7 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: gray;
+  background-image: url('./img/harrypotter.jpg');
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
